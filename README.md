@@ -1,14 +1,21 @@
+<div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=419c59&size=35&Left=true&vLeft=true&width=800&lines=Oii!!+Sou+a+lare+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=419c59&size=35&Left=true&vLeft=true&width=800&lines=Oii!!+Sou+a+lare+)](https://git.io/typing-svg)
+   <img align="right" height="180" src="https://i.pinimg.com/originals/8e/14/2e/8e142e74f86bcdc6ddb7300696b702e8.gif"/> 
   - 18 Anos  
   - Apaixonada por **tecnologia e design UI/UX.**  
   - Estudante de **Análise e Desenvolvimento de Sistemas**  
   - Ensino Médio Técnico em **Tecnologia da Informação**  
+  
+</div>
+
 
 ---
 
 
 <div align="left" style="justify-content: center;">
+  
+
 
   <h3 align="left">Linguagens e Tecnologias</h3>
 
@@ -25,8 +32,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=419c59&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-   <a href="https://www.linkedin.com/in/larissa-beatriz-585839350/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=419c59&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+   <a href="mailto:larissabagsantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=419c59&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
 </div>
