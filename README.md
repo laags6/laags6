@@ -1,7 +1,7 @@
 <div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=419c59&size=35&Left=true&vLeft=true&width=800&lines=Oii!!+Sou+a+lare+)](https://git.io/typing-svg)
-   <img align="right" height="150" src="https://i.pinimg.com/originals/8e/14/2e/8e142e74f86bcdc6ddb7300696b702e8.gif"/> 
+   <img align="right" height="100" src="https://i.pinimg.com/originals/8e/14/2e/8e142e74f86bcdc6ddb7300696b702e8.gif"/> 
   - 18 Anos  
   - Apaixonada por **tecnologia e design UI/UX.**  
   - Estudante de **Análise e Desenvolvimento de Sistemas**  
