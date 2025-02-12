@@ -1,7 +1,7 @@
 <div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=419c59&size=35&Left=true&vLeft=true&width=800&lines=✦+Oii!!+Sou+a+lare+✦)](https://git.io/typing-svg)
-  - Apaixonada por **Front-end e design UI/UX.**  
+  - Apaixonada por **Tecnológia e design UI/UX.**  
   - Cursando **Análise e Desenvolvimento de Sistemas**  
   - Ensino Médio Técnico em **Tecnologia da Informação**  
   
