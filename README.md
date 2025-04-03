@@ -5,7 +5,7 @@
 
 #
 
-  <img align="right" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laags6&layout=compact&border=true&border_color=0ba35f&title_color=0ba35f&text_color=0ba35f&bg_color=0000&tittle_size=22"/>
+  <img align="right" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laags6&layout=compact&border=true&border_color=0ba35f&title_color=0ba35f&text_color=0ba35f&bg_color=0000&tittle_size=22"/>
 
   <h3>Linguagens e Tecnologias</h3>
 <div align="left" style="justify-content: center;">
