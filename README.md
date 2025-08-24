@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ba35f&size=35&Left=true&vLeft=true&width=800&lines=✦+Oii! tudo bem?+✦)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ba35f&size=35&Left=true&vLeft=true&width=800&lines=✦+Oii!+tudo+bem?+✦)](https://git.io/typing-svg)
   - Interesse em **Tecnológia e design UI/UX.**  
   - Cursando **Análise e Desenvolvimento de Sistemas**  
   - Ensino Médio Técnico em **Tecnologia da Informação**
