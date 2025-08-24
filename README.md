@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ba35f&size=35&Left=true&vLeft=true&width=800&lines=✦+Oii!!+Sou+a+lare+✦)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ba35f&size=35&Left=true&vLeft=true&width=800&lines=✦+Oii!!+✦)](https://git.io/typing-svg)
   - Interesse em **Tecnológia e design UI/UX.**  
   - Cursando **Análise e Desenvolvimento de Sistemas**  
   - Ensino Médio Técnico em **Tecnologia da Informação**
@@ -12,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" style="padding-right: 15px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" style="padding-right: 15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" style="padding-right: 15px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects logo" style="padding-right: 15px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" style="padding-right: 15px" />
 </div>
 
